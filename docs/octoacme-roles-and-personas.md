@@ -1,3 +1,4 @@
+
 # OctoAcme Personas
 
 This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
@@ -75,7 +76,41 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Additional Roles and Personas
+
+### Business Analyst
+**Role Summary:** Gathers requirements and ensures alignment with business goals.  
+**Responsibilities:**
+- Conduct stakeholder interviews and requirement workshops
+- Document functional and non-functional requirements
+- Validate requirements against business objectives  
+**Goals:** Ensure clarity and completeness of requirements  
+**Typical Communication:** Requirement documents, stakeholder meetings
+
+---
+
+### UX Designer
+**Role Summary:** Focuses on user experience and design consistency.  
+**Responsibilities:**
+- Create wireframes, prototypes, and design systems
+- Conduct usability testing and incorporate feedback
+- Collaborate with developers for design implementation  
+**Goals:** Deliver intuitive and accessible user interfaces  
+**Typical Communication:** Design reviews, user testing reports
+
+---
+
+### DevOps Engineer
+**Role Summary:** Handles CI/CD pipelines and deployment automation.  
+**Responsibilities:**
+- Maintain build and deployment pipelines
+- Implement infrastructure as code
+- Monitor system performance and reliability  
+**Goals:** Ensure smooth, automated deployments and system stability  
+**Typical Communication:** Deployment logs, incident reports, automation scripts
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
